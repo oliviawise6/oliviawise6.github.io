@@ -1,0 +1,12 @@
+body {
+    background-color: aqua;
+}
+p{
+    clear:left;
+}
+img{
+    float: right;
+}
+img{
+    clear: right;
+}
